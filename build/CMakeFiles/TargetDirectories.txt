@@ -1,4 +1,0 @@
-/home/danielyh/NTNU/SPH-on-Vulkan-Arm/build/CMakeFiles/VulkanTest.dir
-/home/danielyh/NTNU/SPH-on-Vulkan-Arm/build/CMakeFiles/test.dir
-/home/danielyh/NTNU/SPH-on-Vulkan-Arm/build/CMakeFiles/edit_cache.dir
-/home/danielyh/NTNU/SPH-on-Vulkan-Arm/build/CMakeFiles/rebuild_cache.dir
