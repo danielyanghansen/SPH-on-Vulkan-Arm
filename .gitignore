@@ -1,3 +1,5 @@
 # Ignore local build
 build/*
 -build/README.md
+
+.cache
