@@ -1,7 +1,9 @@
 #pragma once
 
-#include "constants.hpp"
+#include "constants.h"
+
 #include <array>
+
 #include <glm/fwd.hpp>
 #include <glm/glm.hpp>
 #include <vulkan/vulkan.h>
