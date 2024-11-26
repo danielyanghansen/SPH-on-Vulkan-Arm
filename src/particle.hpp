@@ -7,6 +7,7 @@
 #include <glm/fwd.hpp>
 #include <glm/glm.hpp>
 #include <vulkan/vulkan.h>
+#include <vulkan/vulkan_core.h>
 
 namespace sph_program {
 struct Particle {
@@ -55,8 +56,8 @@ struct Particle {
 
     attributeDescriptions[1].binding = 0;
     attributeDescriptions[1].location = 1;
-    attributeDescriptions[1].format = VK_FORMAT_R32G32B32A32_SFLOAT;
-    attributeDescriptions[1].offset = offsetof(Particle, color);
+    attributeDescriptions[1].format = VK_FORMAT_R32G32_SFLOAT;
+    attributeDescriptions[1].offset = offsetof(Particle, velocity);
 
     return attributeDescriptions;
   }

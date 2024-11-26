@@ -8,10 +8,10 @@ make
 ./VulkanTest
 ```
 
-# Some commands
+## Some commands
 
-## make clean
+### make clean
 
-## make build
+### make build
 
-## make test
+### make test
